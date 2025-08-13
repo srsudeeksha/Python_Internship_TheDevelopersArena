@@ -59,11 +59,6 @@ Enter a number when prompted.
 
 ---
 
-## 📸 Screenshot (Optional)
-_Add a screenshot of the output here if required._
-
----
-
 ## 📌 Submission Info
 - **GitHub Repo Link:** _[Add your repo link here]_
 - **Submission Date:** _[Add date here]_
