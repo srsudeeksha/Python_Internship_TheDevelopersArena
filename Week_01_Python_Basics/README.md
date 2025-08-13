@@ -2,6 +2,7 @@
 
 ## 📅 Internship Week 1 Task
 **Goal:** Understand the core building blocks of Python.  
+
 This week, I learned about:
 - Variables & Data Types (\`int\`, \`float\`, \`string\`, \`boolean\`)
 - Operators (\`+\`, \`-\`, \`*\`, \`/\`, \`%\`, etc.)
