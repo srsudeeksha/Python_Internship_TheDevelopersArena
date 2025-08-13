@@ -22,7 +22,7 @@ A simple calculator that performs:
 **How to run:**
 
 python calculator.py
-\`\`\`
+
 You will be prompted to enter:
 1. Operation (+, -, *, /)
 2. Two numbers
@@ -35,7 +35,7 @@ Checks if a given number is **even** or **odd**.
 **How to run:**
 
 python even_odd_checker.py
-\`\`\`
+
 Enter a number when prompted.
 
 ---
@@ -46,7 +46,7 @@ Generates the multiplication table of any number up to 10.
 **How to run:**
 
 python multiplication_table.py
-\`\`\`
+
 Enter a number when prompted.
 
 ---
