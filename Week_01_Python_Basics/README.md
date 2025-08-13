@@ -20,7 +20,7 @@ A simple calculator that performs:
 - Division (with zero-division handling)
 
 **How to run:**
-\`\`\`bash
+
 python calculator.py
 \`\`\`
 You will be prompted to enter:
@@ -33,7 +33,7 @@ You will be prompted to enter:
 Checks if a given number is **even** or **odd**.
 
 **How to run:**
-\`\`\`bash
+
 python even_odd_checker.py
 \`\`\`
 Enter a number when prompted.
@@ -44,7 +44,7 @@ Enter a number when prompted.
 Generates the multiplication table of any number up to 10.
 
 **How to run:**
-\`\`\`bash
+
 python multiplication_table.py
 \`\`\`
 Enter a number when prompted.
@@ -60,7 +60,5 @@ Enter a number when prompted.
 ---
 
 ## 📌 Submission Info
-- **GitHub Repo Link:** _[Add your repo link here]_
-- **Submission Date:** _[Add date here]_
-EOF
-
+- **GitHub Repo Link:** 
+- **Submission Date:** 17/08/2025
