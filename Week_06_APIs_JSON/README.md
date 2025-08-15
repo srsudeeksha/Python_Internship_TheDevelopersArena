@@ -56,5 +56,5 @@ python news_app.py
 
 ## 📌 Submission Info
 - **GitHub Repo Link:** 
-- **Submission Date:** 14/09/2025
+- **Submission Date:** 21/09/2025
 
