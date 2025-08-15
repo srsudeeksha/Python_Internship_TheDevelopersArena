@@ -33,15 +33,14 @@ Python script that:
 **How to run:**
 python data_analysis.py
 
-📝 Learning Summary
-
+## 📝 Learning Summary
 - Learned how to use Pandas for data manipulation.
 - Practiced reading CSV files and exploring data.
 - Applied statistical methods to summarize datasets.
 - Learned to group and aggregate data using Pandas.
 
-📌 Submission Info
+---
 
-GitHub Repo Link:
-
-Submission Date: 17/08/2025
+## 📌 Submission Info
+- **GitHub Repo Link:** 
+- **Submission Date:** 17/08/2025
