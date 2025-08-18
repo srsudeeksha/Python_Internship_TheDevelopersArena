@@ -39,6 +39,6 @@ You will be prompted to:
 ---
 
 ## 📌 Submission Info
-- **GitHub Repo Link:** 
+- **GitHub Repo Link:** https://github.com/srsudeeksha/Python_Internship_TheDevelopersArena/tree/main/Week_02_Functions_Lists_Dicts
 - **Submission Date:** 24/08/2025
 
