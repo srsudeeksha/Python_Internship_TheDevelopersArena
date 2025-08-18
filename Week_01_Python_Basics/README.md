@@ -61,5 +61,5 @@ Enter a number when prompted.
 ---
 
 ## 📌 Submission Info
-- **GitHub Repo Link:** 
+- **GitHub Repo Link:** https://github.com/srsudeeksha/Python_Internship_TheDevelopersArena/tree/main/Week_01_Python_Basics
 - **Submission Date:** 17/08/2025
