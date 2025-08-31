@@ -50,6 +50,6 @@ At the end, your score will be displayed.
 ---
 
 ## 📌 Submission Info
-- **GitHub Repo Link:** 
+- **GitHub Repo Link:** https://github.com/srsudeeksha/Python_Internship_TheDevelopersArena/tree/main/Week_04_Mini_Project
 - **Submission Date:** 07/09/2025
 
